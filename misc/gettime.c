@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "tictoc.h"
+#include "../tictoc.h"
 
 int main () {
     // Start measuring time
